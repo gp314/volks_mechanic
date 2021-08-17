@@ -1,0 +1,67 @@
+.container{
+    margin: 0 auto;
+    width: 1024px;
+}
+#seletor {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+ }
+p{
+    line-height: 1px;
+    font-size: 20px;
+    color: white ;
+}
+img{
+    margin: auto;
+    border-radius: 9px;
+    max-width: 250px;
+    max-height: 250px;
+    width: auto;
+    height: auto;      
+} 
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    line-height: 1.6;
+    background-color: rgb(21,31,93);
+}
+.place{
+    border-color: rgb(255, 255, 255);
+    border: 1px solid #ccc;
+    margin-bottom: 1px;
+    padding: 1px;
+    width: auto;
+    height: auto;
+    
+}
+a{
+    margin: auto;
+    font-size: 15px;
+    background-color: white;
+    border-radius: 9px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: center;
+}
+a:hover{
+    color:rgb(0, 255, 13);
+    font-weight: bold;
+    background-color: black;
+    
+}
+.place a:active{
+    color:red;
+    font-weight: bold;
+    background-color: black;
+}
+
+.click{
+    margin: auto;
+
+}
+.me{
+    font-size: 60%;
+}

@@ -1,15 +1,13 @@
 .container-fluid{
     margin: 0 auto;
-    width: 480px;
+    width: 490px;
 }
 p{
     line-height: 1px;
     font-size: 20px;
     color: white ;
 }
-.space{
-    margin-top: 50px;
-}
+
 img{
     margin: auto;
     border-radius: 9px;
